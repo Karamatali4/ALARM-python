@@ -7,7 +7,7 @@ from utilities import set_alarm
 def create_gui():
     window = tk.Tk()
     window.title("Alarm Clock")
-    window.geometry("300x200")
+    window.geometry("400x300")
 
    
     tk.Label(window, text="Alarm Clock")
